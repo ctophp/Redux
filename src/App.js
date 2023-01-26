@@ -12,6 +12,7 @@ let App = () => {
                 <div className="container">
                     <a href="" className="navbar-brand">Pizza Hut with React & REDUX</a>
                 </div>
+                <div>test</div>
             </nav>
 
            <Provider store={store}>
